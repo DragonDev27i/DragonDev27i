@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @DragonDev27i
-- I love programming 
+- I love programming
+- I love animals 
   
 
 <!---
